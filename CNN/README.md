@@ -36,5 +36,4 @@ Asegúrate de tener las bibliotecas requeridas instaladas en tu entorno de Pytho
 
 - Predicciones y evaluación: Se realizan predicciones en el conjunto de prueba utilizando el modelo entrenado. Las predicciones se convierten en etiquetas binarias y se calculan diversas métricas de evaluación, como la matriz de confusión, la precisión, la recuperación y la puntuación F1.
 
-## Autor
-- [@EdgarSotoAvalos](https://github.com/EdgarSotoAvalos)
+
