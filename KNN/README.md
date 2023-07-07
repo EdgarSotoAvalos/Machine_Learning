@@ -63,6 +63,4 @@ Ejecución del código
 
   - Ejecuta el código.
 
-## Autores
 
-- [@EdgarSotoAvalos](https://github.com/EdgarSotoAvalos)
